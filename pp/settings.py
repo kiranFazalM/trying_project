@@ -84,7 +84,7 @@ DATABASES = {
         #host from heroku postgres
         'HOST' : 'ec2-3-233-100-43.compute-1.amazonaws.com',
         #port from heroku postgres
-        'PORT' : '5432',
+
     }
 }
 
